@@ -1,0 +1,9 @@
+This is the start of a practice twitter bot project. Here are the objectives so far:
+
+1. Create Twitter bot to tweet random quotes from scientists at a regular interval, with hashtags.
+
+2. Create algorithm to regularly download meta data on past tweets
+
+3. Try to feed info to learning machine to better predict characteristics of quotes to tweet.
+
+Starting with step 1...
